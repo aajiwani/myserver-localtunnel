@@ -1,0 +1,27 @@
+{
+  "name": "myserver-localtunnel",
+  "version": "1.0.0",
+  "description": "A local setup to get the tunnel up and running for my NAT based server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aajiwani/myserver-localtunnel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aajiwani/myserver-localtunnel/issues"
+  },
+  "homepage": "https://github.com/aajiwani/myserver-localtunnel#readme",
+  "devDependencies": {
+    "localtunnel": "^2.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "mustache": "^4.2.0"
+  }
+}
